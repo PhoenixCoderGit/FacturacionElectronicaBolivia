@@ -1,4 +1,5 @@
 node_modules
 .idea
 public/ApifacturacionV2
+public/vendor
 .bablerc
